@@ -1,0 +1,24 @@
+form{
+    position: relative;
+    left: 40%;
+    top: 80px;
+    
+}
+.emailid{
+    font-size: large;
+}
+
+.password{
+    font-size: large;
+}
+.login1{
+    position: relative;
+    left: 80px;
+    color: aqua;
+    border-radius: 20px;
+    font-size: large;
+    
+}
+body{
+    background-image: url("formbackground.jpg");
+}

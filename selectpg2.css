@@ -1,0 +1,62 @@
+.searchbar{
+    border: solid;
+    height: 250px;
+    background-image: url("photo.jpg");
+    
+}
+.pg1{
+    display: flex;
+    border: solid;
+    height: 150px;
+    position: relative;
+    top: 30px;
+    
+}
+.searchbutton{
+    position: relative;
+    left: 40%;
+    top: 100px;
+    width: 30%;
+    
+}
+.badroom{
+    height: 150px;
+}
+.text2{
+    text-decoration: solid;
+}
+.text3{
+    position: relative;
+    top: 20px;
+    right: 13.5%;
+}
+.text4{
+    position: relative;
+    top: 80px;
+    right: 55%;
+    color: red;
+}
+.pg2{
+    border: solid;
+    height: 150px;
+    position: relative;
+    top: 60px;
+}
+.pg3{
+    border: solid;
+    height: 150px;
+    position: relative;
+    top:  90px;
+}
+.pg4{
+    border: solid;
+    height: 150px;
+    position: relative;
+    top: 120px;
+}
+.pg5{
+    border: solid;
+    height: 150px;
+    position: relative;
+    top: 150px;
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="form.css">
+</head>
+<body>
+    <form  action = "submit.php" method="post">
+        <p class="registration">Regitration Form</p>
+        <br>
+       username :<input type="text" placeholder="enter your name" class="name" name="user">
+       <br>
+       <br>
+       <br>
+       
+       email :<input type="text" placeholder="enter your email id" class="emailid" name="email">
+       <br>
+       <br>
+       <br>
+       
+     
+       
+      password :<input type="password" placeholder="enter your new password" class="password" name="password">
+      <br>
+      <br>
+      <br>
+      
+      <button class="login1" value="submit" type="submit">submit</button>
+    </form>
+   <?php include("submit.php"); ?>
+</body>
+</html>

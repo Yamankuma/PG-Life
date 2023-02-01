@@ -1,0 +1,41 @@
+.searchbar{
+    border: solid;
+    height: 250px;
+    background-image: url("photo.jpg");
+}
+.pg1{
+    border: solid;
+    height: 150px;
+    position: relative;
+    top: 30px;
+}
+.searchbutton{
+    position: relative;
+    left: 40%;
+    top: 100px;
+    width: 30%;
+}
+.pg2{
+    border: solid;
+    height: 150px;
+    position: relative;
+    top: 60px;
+}
+.pg3{
+    border: solid;
+    height: 150px;
+    position: relative;
+    top: 90px;
+}
+.pg4{
+    border: solid;
+    height: 150px;
+    position: relative;
+    top: 120px;
+}
+.pg5{
+    border: solid;
+    height: 150px;
+    position: relative;
+    top: 150px;
+}
